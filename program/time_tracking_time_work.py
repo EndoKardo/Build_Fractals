@@ -1,4 +1,4 @@
-class Time_tracking_now:
+class Time_tracking_time_work:
   def __init__(self):
     # Инициализация модуля тайм-трекинга
 
