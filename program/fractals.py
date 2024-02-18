@@ -19,11 +19,7 @@ class Fractals:
 
   def IFS_build(self):
     # Построение фрактала на основе IFS
-    
-class NewImagineClass:
-  def __init__(self):
-    print("Hello GIT!")
-    
+
 class patterns_fractals:
   def __init__(self):
     # Инициализация модуля выбора шаблона фрактала
