@@ -1,25 +1,3 @@
-#class Fractals:
-  #def __init__(self):
-    # Инициализация модуля фракталов
-
-  #def build_fractl(self):
-    # Построение фрактала
-
-  #def setting_build_fractl():
-    # Настройка построения фракталов
-
-  #def choose_realization_fractal_build(self):
-    # Выбор  реализации фрактального построения
-
-  #def algorithmic_build(self):
-    # Алгоритмическое построение фрактала
-
-  #def geomethric_build(self):
-    # Геометрическое построение фрактала
-
-  #def IFS_build(self):
-    # Построение фрактала на основе IFS
-
 class NewImagineClass:
   def __init__(self):
     print("Hello GIT!")
